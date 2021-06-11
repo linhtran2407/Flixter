@@ -3,7 +3,7 @@ Flixter is an app that allows users to browse movies from the [The Movie Databas
 
 Language used: Java
 
-## Flixter Part 1
+## Part 1
 
 #### Required User Stories
 - [x] User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
@@ -23,7 +23,7 @@ Language used: Java
 
 ------------------------------------
 
-## Flix Part 2
+## Part 2
 
 ### Required User Stories
 
